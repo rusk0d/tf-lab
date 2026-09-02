@@ -4,7 +4,7 @@ A two-availability-zone VPC built with Terraform, plus a containerised Python to
 audits an AWS account for resources that are costing money without doing anything.
 
 I built this to learn AWS networking and infrastructure as code properly rather than
-through tutorials. Everything here I wrote myself and can explain.
+through tutorials. 
 
 ## What it does
 
